@@ -1,0 +1,14 @@
+{
+  "name": "shop",
+  "version": "1.0.0",
+  "description": "shop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "stas",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^2.0.2"
+  }
+}
